@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="mariadev.jpeg.jpeg" width="100%" alt="Banner Maria Camila Developer Full Stack" style="border-radius:15px; box-shadow:0 0 15px #2196F3;">
+  <hr>
+  <img src="assets_maria/banner_final.png" width="100%" alt="Banner Maria Camila Developer Full Stack" style="border-radius:15px; box-shadow:0 0 15px #2196F3;">
 </p>
 
 ---
