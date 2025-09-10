@@ -1,5 +1,9 @@
 # Olá, eu sou a Maria Camila!🛡️⚔️
 
+<p alin="center">
+  <img src="mariadev.jpeg" width="100%" alt="Minha foto de fundo">
+</p>
+
 <p align="center">
   <img src="guerreira.jpeg" width="100%" alt="Minha foto de guerreira">
 </p>
