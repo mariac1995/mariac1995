@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="mariadev.jpeg" width="100%" alt="Banner Maria Camila Developer Full Stack">
+  <img src="mariadev.jpeg.jpeg" width="100%" alt="Banner Maria Camila Developer Full Stack">
 </p>
 
 <p align="center">
