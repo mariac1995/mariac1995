@@ -1,6 +1,6 @@
 # Olá, eu sou a Maria Camila!🛡️⚔️
 
-<p alin="center">
+<p align="center">
   <img src="mariadev.jpeg" width="100%" alt="Minha foto de fundo">
 </p>
 
