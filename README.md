@@ -8,7 +8,7 @@ A tecnologia é a força que me inspira a seguir em frente, todos os dias. Sou a
 
 </p
 
-# **Meu conjunto de habilidades**
+# **🧠 Meu conjunto de habilidades:**
 
 
 ## Linguagens de Programação
