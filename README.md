@@ -1,7 +1,8 @@
-# Olá, eu sou Maria Camila ⚔️
+# Olá, eu sou a Maria Camila 🛡️⚔️
 
 <p align="center">
-  <img src="guerreira.jpeg" width="300" alt="Minha foto de guerreira">
+  <img src="guerreira.jpeg" width="500" alt="Minha foto de guerreira">
 </p>
+
 
 Apaixonada por tecnologia e desafios, sempre em busca de evoluir e conquistar novas batalhas!
