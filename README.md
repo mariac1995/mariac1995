@@ -1,4 +1,4 @@
-# Olá, eu sou a Maria Camila 🛡️⚔️
+# Olá, eu sou a Maria Camila!🛡️⚔️
 
 <p align="center">
   <img src="guerreira.jpeg" width="100%" alt="Minha foto de guerreira">
