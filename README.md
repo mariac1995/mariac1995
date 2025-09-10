@@ -10,7 +10,7 @@ A tecnologia é a força que me inspira a seguir em frente, todos os dias. Sou a
 <p align="center">
   <img src="guerreira.jpeg" width="100%" alt="Minha foto de guerreira">
 
-# **🧠 Meu conjunto de habilidades:** 🛡️⚔️
+# **🧠 Meu conjunto de habilidades:** 
 
 
 ## Linguagens de Marcação
