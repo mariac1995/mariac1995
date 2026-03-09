@@ -11,7 +11,7 @@
 
 <p align="center" style="font-size:18px;">
   <em>
-    A tecnologia é minha aliada diária. Sou movida pela paixão de aprender, criar e inovar. Meu compromisso é transformar desafios em oportunidades e ideias em soluções reais. Cada projeto é uma conquista, cada bug é uma chance de evoluir. Ser desenvolvedora é meu propósito, minha paixão e a maneira que encontrei de deixar minha marca no mundo digital. <strong>Vamos construir o futuro juntos?</strong> 🛡️⚔️🔥
+    A tecnologia é minha aliada diária. Sou movida pela paixão de aprender, criar e inovar. Meu compromisso é transformar desafios em oportunidades e ideias em soluções reais. Cada projeto é uma conquista, cada bug é uma chance de evoluir. Ser desenvolvedora é meu propósito, minha bússuma e é a maneira que encontrei de deixar minha marca no mundo digital. <strong>Vamos construir o futuro juntos?</strong> 🛡️⚔️🔥
   </em>
 </p>
 
